@@ -1,0 +1,6 @@
+249ae2aa5ae1b4def63cba9f90eade2b  usr/bin/mksquashfs
+07c85b5042cb7f5cae6824301eae9e1d  usr/bin/unsquashfs
+c694c436aa68360bf2ee17f9e2ea2935  usr/share/doc/squashfs-tools/changelog.Debian.gz
+a45de5e018ee4a30bd446e67466aa728  usr/share/doc/squashfs-tools/copyright
+071ebf50bf94c40b86db39bf0cdac11e  usr/share/man/man1/mksquashfs.1.gz
+0046887623f016c8eeb024096eab91e6  usr/share/man/man1/unsquashfs.1.gz
